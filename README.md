@@ -56,5 +56,5 @@ Les performances des modèles ont été évaluées à l'aide de :
 ### **Étapes**
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/nom_utilisateur/nom_du_projet.git
+   git clone https://github.com/alae78/Projet_IA.git
    cd nom_du_projet
