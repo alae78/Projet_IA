@@ -25,9 +25,9 @@ L'objectif de ce projet est de construire et d'évaluer des modèles de classifi
 
 - **Source des données** : Données simulées générées avec Scikit-learn pour représenter un problème multi-classes.
 - **Caractéristiques principales** :
-  - Nombre d'instances : 1000
+  - Nombre d'instances : 5001
   - Nombre de classes : 4
-  - Nombre de caractéristiques : 20 (dont 4 informatives)
+  - Nombre de caractéristiques : 10
 
 ---
 
