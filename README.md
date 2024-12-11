@@ -51,10 +51,3 @@ Les performances des modèles ont été évaluées à l'aide de :
 - **Matrices de confusion** pour analyser les erreurs de prédiction.
 - **Rapport de classification** (précision, rappel, F1-score) pour chaque classe.
 
----
-
-### **Étapes**
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/alae78/Projet_IA.git
-   cd Projet_IA
